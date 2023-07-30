@@ -16,4 +16,4 @@ Format of the API:
 }
 ```
 
-App deployed: http://alekla0126.github.io/news
+App deployed: http://alekla0126.github.io/news2
